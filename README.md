@@ -1,8 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bartek</h1>
+<h3 align="center">I'm a junior Front-End Web Developer and I like to create things that look pretty. I am passionate about technologies and love to learn new things.</h3>
 
-Hi, I am Bartek, a junior Front-End Web Developer. I like to create things that look pretty. I am passionate about technologies and love to learn new things.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bartydash&label=Profile%20views&color=0e75b6&style=flat" alt="bartydash" /> </p>
 
-### 🔭 Have a look at my [website]()
+### 🔭 Have a look at my [portfolio]()
+- 🌱 I’m currently learning **JavaScript, Tailwind**
+
+- ⚡ Fun fact **In addition to coding games in my spare time, I love to race my FPV drone on extreme trails and in freestyle mode. 🚁✨**
+
+## ⚡ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+## 📫 Get in touch
+- LinkedIn: [Bartek]()
+- How to reach me **mymail@gmail.com**
 
 <!--
 **BartyDash/BartyDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
