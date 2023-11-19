@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+Hi, I am Bartek, a junior Front-End Web Developer. I like to create things that look pretty. I am passionate about technologies and love to learn new things.
+
+### 🔭 Have a look at my [website]()
 
 <!--
 **BartyDash/BartyDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
