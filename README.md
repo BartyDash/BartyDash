@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartydash&label=Profile%20views&color=0e75b6&style=flat" alt="bartydash" /> </p>
 
-### 🔭 Have a look at my [portfolio]()
+### 🔭 Have a look at my [portfolio](https://bartekdev.pl)
 - 🌱 I’m currently learning **JavaScript, Tailwind**
 
 - ⚡ Fun fact **In addition to coding games in my spare time, I love to race my FPV drone on extreme trails and in freestyle mode. 🚁✨**
@@ -19,8 +19,8 @@
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Get in touch
-- LinkedIn: [Bartek]()
-- How to reach me **mymail@gmail.com**
+- LinkedIn: [Bartek](https://www.linkedin.com/in/bartekg%C5%82owacki)
+- How to reach me **writetobartek@gmail.com**
 
 <!--
 **BartyDash/BartyDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
