@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartydash&label=Profile%20views&color=0e75b6&style=flat" alt="bartydash" /> </p>
 
 ### 🔭 Have a look at my [portfolio](https://bartekdev.pl)
-- 🌱 I’m currently learning **JavaScript, Tailwind**
+- 🌱 I’m currently learning **ReactJs, Tailwind**
 
 - ⚡ Fun fact **In addition to coding games in my spare time, I love to race my FPV drone on extreme trails and in freestyle mode. 🚁✨**
 
